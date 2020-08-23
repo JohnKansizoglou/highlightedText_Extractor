@@ -29,7 +29,7 @@ The present libraries are being developed in Python 3.7
 ### Example A
 
 <table align='center'>
-<td><img src='images/test5.jpg'/></td>
+<td><img src='images/test5.jpg' width='400'/></td>
 </table>
 
 ```
