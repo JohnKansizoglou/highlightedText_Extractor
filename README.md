@@ -29,7 +29,7 @@ The present libraries are being developed in Python 3.7
 ### Example A
 
 <table align='center'>
-<td><img src='images/test5.jpg' width='400' height='250'/></td>
+<td><img src='images/test5.jpg'/></td>
 </table>
 
 ```
@@ -41,7 +41,7 @@ image_path = 'images/test5.jpg'
 textual_data = hta.run(cv2.imread(image_path), showMaps=True)
 ```
 <table align='center'>
-<td><img src='examples/ex5.png' width='600' height='250'/></td>
+<td><img src='examples/ex5.png'/></td>
 </table>
 
 ```
@@ -59,7 +59,7 @@ wrote the software on which they ran. * * *
 ### Example B
 
 <table align='center'>
-<td><img src='images/test3.jpg' width='400' height='250'/></td>
+<td><img src='images/test3.jpg'/></td>
 </table>
 
 ```
@@ -72,22 +72,22 @@ textual_data = hta.run(cv2.imread(image_path), showMaps=True)
 ```
 <table align='center'>
 <tr>
-<td><img src='examples/ex3_a.png' width='600' height='250'/></td>
+<td><img src='examples/ex3_a.png'/></td>
 </tr>
 <tr>
-<td><img src='examples/ex3_b.png' width='600' height='250'/></td>
+<td><img src='examples/ex3_b.png'/></td>
 </tr>
 <tr>
-<td><img src='examples/ex3_c.png' width='600' height='250'/></td>
+<td><img src='examples/ex3_c.png'/></td>
 </tr>
 <tr>
-<td><img src='examples/ex3_d.png' width='600' height='250'/></td>
+<td><img src='examples/ex3_d.png'/></td>
 </tr>
 <tr>
-<td><img src='examples/ex3_e.png' width='600' height='250'/></td>
+<td><img src='examples/ex3_e.png'/></td>
 </tr>
 <tr>
-<td><img src='examples/ex3_f.png' width='600' height='250'/></td>
+<td><img src='examples/ex3_f.png'/></td>
 </tr>
 </table>
 
